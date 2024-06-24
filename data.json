@@ -1,0 +1,822 @@
+[
+    {
+      "cuisine": "Indian",
+      "recipe_name": "Dal Makhani",
+      "duration": "1 hour 15 minutes (including soaking time)",
+      "cost_per_serving": "$1.50",
+      "ingredients": [
+        {
+          "name": "Black Lentils",
+          "quantity": "1 cup",
+          "walmart_price": "$1.00",
+          "amazon_grocery_price": "$1.20"
+        },
+        {
+          "name": "Kidney Beans",
+          "quantity": "1 cup",
+          "walmart_price": "$0.80",
+          "amazon_grocery_price": "$1.00"
+        },
+        {
+          "name": "Butter",
+          "quantity": "2 tbsp",
+          "walmart_price": "$0.50",
+          "amazon_grocery_price": "$0.60"
+        },
+        {
+          "name": "Onion",
+          "quantity": "1 medium",
+          "walmart_price": "$0.30",
+          "amazon_grocery_price": "$0.40"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "2 cloves",
+          "walmart_price": "$0.10",
+          "amazon_grocery_price": "$0.15"
+        },
+        {
+          "name": "Ginger",
+          "quantity": "1 inch",
+          "walmart_price": "$0.20",
+          "amazon_grocery_price": "$0.25"
+        },
+        {
+          "name": "Ripe Tomatoes",
+          "quantity": "2",
+          "walmart_price": "$0.60",
+          "amazon_grocery_price": "$0.80"
+        },
+        {
+          "name": "Garam Masala",
+          "quantity": "1 tsp",
+          "walmart_price": "$0.50",
+          "amazon_grocery_price": "$0.60"
+        },
+        {
+          "name": "Heavy Cream",
+          "quantity": "½ cup",
+          "walmart_price": "$1.00",
+          "amazon_grocery_price": "$1.20"
+        },
+        {
+          "name": "Salt and Pepper",
+          "quantity": "to taste",
+          "walmart_price": "$0.20",
+          "amazon_grocery_price": "$0.25"
+        }
+      ],
+      "pre_cooking_steps": [
+        {
+          "step": "Rinse black lentils and kidney beans.",
+          "duration": "5 minutes"
+        },
+        {
+          "step": "Soak lentils and beans in plenty of water for at least 8 hours or overnight.",
+          "duration": "8 hours or overnight"
+        }
+      ],
+      "instructions": [
+        {
+          "step": "Drain soaked lentils and beans.",
+          "duration": "5 minutes"
+        },
+        {
+          "step": "Heat butter in a pot over medium heat.",
+          "duration": "2 minutes"
+        },
+        {
+          "step": "Sauté onions until translucent.",
+          "duration": "5 minutes"
+        },
+        {
+          "step": "Add minced garlic and grated ginger, sauté for another minute.",
+          "duration": "1 minute"
+        },
+        {
+          "step": "Add chopped tomatoes and cook until soft and mushy.",
+          "duration": "10 minutes"
+        },
+        {
+          "step": "Add garam masala, lentils, beans, and 4 cups of water to the pot.",
+          "duration": "5 minutes"
+        },
+        {
+          "step": "Bring to a boil, then reduce heat and simmer for 45 minutes, or until lentils and beans are tender.",
+          "duration": "45 minutes"
+        },
+        {
+          "step": "Stir in heavy cream and season with salt and pepper.",
+          "duration": "5 minutes"
+        },
+        {
+          "step": "Simmer for 5 minutes, or until the dal thickens slightly.",
+          "duration": "5 minutes"
+        }
+      ],
+      "nutritional_constituents": [
+        {
+          "name": "Protein",
+          "percentage": "25",
+          "amount": "20g"
+        },
+        {
+          "name": "Fiber",
+          "percentage": "30",
+          "amount": "12g"
+        },
+        {
+          "name": "Iron",
+          "percentage": "15",
+          "amount": "6mg"
+        }
+      ],
+      "leftover_recipe_suggestions": [
+        "Dal Makhani Toast", "Dal Makhani Soup", "Dal Makhani Quesadillas"
+      ]
+    },
+    {
+      "cuisine": "Mexican",
+      "recipe_name": "Chicken Tinga",
+      "duration": "45 minutes",
+      "cost_per_serving": "$2.00",
+      "ingredients": [
+        {
+          "name": "Boneless, Skinless Chicken Breasts",
+          "quantity": "1 lb",
+          "walmart_price": "$4.00",
+          "amazon_grocery_price": "$5.00"
+        },
+        {
+          "name": "Onion",
+          "quantity": "1 large",
+          "walmart_price": "$0.30",
+          "amazon_grocery_price": "$0.40"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "2 cloves",
+          "walmart_price": "$0.10",
+          "amazon_grocery_price": "$0.15"
+        },
+        {
+          "name": "Diced Tomatoes, Undrained",
+          "quantity": "1 can (14.5 oz)",
+          "walmart_price": "$0.80",
+          "amazon_grocery_price": "$1.00"
+        },
+        {
+          "name": "Black Beans, Rinsed and Drained",
+          "quantity": "1 can (15 oz)",
+          "walmart_price": "$1.00",
+          "amazon_grocery_price": "$1.20"
+        },
+        {
+          "name": "Chili Powder",
+          "quantity": "1 tbsp",
+          "walmart_price": "$0.20",
+          "amazon_grocery_price": "$0.30"
+        },
+        {
+          "name": "Cumin",
+          "quantity": "1 tsp",
+          "walmart_price": "$0.10",
+          "amazon_grocery_price": "$0.15"
+        },
+        {
+          "name": "Smoked Paprika",
+          "quantity": "½ tsp",
+          "walmart_price": "$0.15",
+          "amazon_grocery_price": "$0.20"
+        },
+        {
+          "name": "Cayenne Pepper",
+          "quantity": "¼ tsp (optional)",
+          "walmart_price": "$0.10",
+          "amazon_grocery_price": "$0.15"
+        },
+        {
+          "name": "Salt and Pepper",
+          "quantity": "to taste",
+          "walmart_price": "$0.20",
+          "amazon_grocery_price": "$0.25"
+        }
+      ],
+      "pre_cooking_steps": [],
+      "instructions": [
+        {
+          "step": "Place chicken breasts in a pot with 2 cups water. Bring to a boil, then reduce heat and simmer for 15-20 minutes, or until cooked through. Shred the chicken.",
+          "duration": "20 minutes"
+        },
+        {
+          "step": "Heat oil in a pan. Sauté onion until softened. Add garlic and sauté for another minute. Add diced tomatoes, black beans, chili powder, cumin, paprika, and cayenne (if using). Cook for 5 minutes, stirring occasionally.",
+          "duration": "10 minutes"
+        },
+        {
+          "step": "Add shredded chicken to the sauce. Season with salt and pepper. Simmer for 10 minutes, or until flavors meld.",
+          "duration": "10 minutes"
+        }
+      ],
+      "nutritional_constituents": [
+        {
+          "name": "Protein",
+          "percentage": "30",
+          "amount": "25g"
+        },
+        {
+          "name": "Fiber",
+          "percentage": "25",
+          "amount": "10g"
+        },
+        {
+          "name": "Iron",
+          "percentage": "15",
+          "amount": "5mg"
+        }
+      ],
+      "leftover_recipe_suggestions": [
+        "Chicken Tinga Tacos", "Chicken Tinga Enchiladas", "Chicken Tinga Quesadillas"
+      ]
+    },
+    {
+      "cuisine": "Italian",
+      "recipe_name": "Pasta alla Gricia",
+      "duration": "20 minutes",
+      "cost_per_serving": "$2.50",
+      "ingredients": [
+        {
+          "name": "Spaghetti",
+          "quantity": "1 lb",
+          "walmart_price": "$1.00",
+          "amazon_grocery_price": "$1.20"
+        },
+        {
+          "name": "Pancetta, diced",
+          "quantity": "4 oz",
+          "walmart_price": "$3.00",
+          "amazon_grocery_price": "$3.50"
+        },
+        {
+          "name": "Pecorino Romano cheese, grated",
+          "quantity": "1/2 cup",
+          "walmart_price": "$2.00",
+          "amazon_grocery_price": "$2.50"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": "1 tbsp",
+          "walmart_price": "$0.20",
+          "amazon_grocery_price": "$0.30"
+        },
+        {
+          "name": "Black Pepper",
+          "quantity": "to taste",
+          "walmart_price": "$0.10",
+          "amazon_grocery_price": "$0.15"
+        }
+      ],
+      "pre_cooking_steps": [],
+      "instructions": [
+        {
+          "step": "Bring a large pot of salted water to a boil. Add spaghetti and cook according to package directions, al dente.",
+          "duration": "10 minutes"
+        },
+        {
+          "step": "While the pasta is cooking, heat olive oil in a large skillet. Add pancetta and cook over medium heat, stirring occasionally, until crispy.",
+          "duration": "5 minutes"
+        },
+        {
+          "step": "Drain the spaghetti and add it to the skillet with the pancetta. Toss to coat. Stir in Pecorino Romano cheese and black pepper. Serve immediately.",
+          "duration": "5 minutes"
+        }
+      ],
+      "nutritional_constituents": [
+        {
+          "name": "Carbohydrates",
+          "percentage": "50",
+          "amount": "60g"
+        },
+        {
+          "name": "Protein",
+          "percentage": "20",
+          "amount": "15g"
+        },
+        {
+          "name": "Calcium",
+          "percentage": "10",
+          "amount": "100mg"
+        }
+      ],
+      "leftover_recipe_suggestions": [
+        "Pancetta and Pecorino Frittata", "Pancetta and Pecorino Salad", "Pancetta and Pecorino Stuffed Mushrooms"
+      ]
+    },
+    {
+      "cuisine": "Japanese",
+      "recipe_name": "Edamame",
+      "duration": "5 minutes",
+      "cost_per_serving": "$1.00",
+      "ingredients": [
+        {
+          "name": "Frozen Edamame (Soybeans)",
+          "quantity": "1 cup",
+          "walmart_price": "$1.50",
+          "amazon_grocery_price": "$2.00"
+        }
+      ],
+      "pre_cooking_steps": [],
+      "instructions": [
+        {
+          "step": "Bring a small pot of water to a boil. Add edamame and steam for 5 minutes, or until tender.",
+          "duration": "5 minutes"
+        },
+        {
+          "step": "Drain edamame and serve hot or cold, seasoned with salt or soy sauce, if desired.",
+          "duration": "5 minutes"
+        }
+      ],
+      "nutritional_constituents": [
+        {
+          "name": "Protein",
+          "percentage": "15",
+          "amount": "10g"
+        },
+        {
+          "name": "Fiber",
+          "percentage": "15",
+          "amount": "8g"
+        },
+        {
+          "name": "Iron",
+          "percentage": "10",
+          "amount": "4mg"
+        }
+      ],
+      "leftover_recipe_suggestions": [
+        "Edamame Salad", "Edamame Hummus", "Edamame Stir-Fry"
+      ]
+    },
+    {
+      "cuisine": "Chinese",
+      "recipe_name": "Kung Pao Chicken",
+      "duration": "30 minutes",
+      "cost_per_serving": "$3.00",
+      "ingredients": [
+        {
+          "name": "Boneless, Skinless Chicken Breasts",
+          "quantity": "1 lb",
+          "walmart_price": "$4.00",
+          "amazon_grocery_price": "$5.00"
+        },
+        {
+          "name": "Cornstarch",
+          "quantity": "1 tbsp",
+          "walmart_price": "$0.10",
+          "amazon_grocery_price": "$0.15"
+        },
+        {
+          "name": "Soy Sauce",
+          "quantity": "3 tbsp",
+          "walmart_price": "$0.20",
+          "amazon_grocery_price": "$0.30"
+        },
+        {
+          "name": "Shaoxing Wine (or dry sherry)",
+          "quantity": "1 tbsp",
+          "walmart_price": "$1.00",
+          "amazon_grocery_price": "$1.20"
+        },
+        {
+          "name": "Peanut Oil",
+          "quantity": "1 tbsp",
+          "walmart_price": "$0.20",
+          "amazon_grocery_price": "$0.30"
+        },
+        {
+          "name": "Onion",
+          "quantity": "1",
+          "walmart_price": "$0.30",
+          "amazon_grocery_price": "$0.40"
+        },
+        {
+          "name": "Red Bell Pepper",
+          "quantity": "1",
+          "walmart_price": "$0.50",
+          "amazon_grocery_price": "$0.60"
+        },
+        {
+          "name": "Green Bell Pepper",
+          "quantity": "1",
+          "walmart_price": "$0.50",
+          "amazon_grocery_price": "$0.60"
+        },
+        {
+          "name": "Dry-Roasted Peanuts",
+          "quantity": "1 cup",
+          "walmart_price": "$2.00",
+          "amazon_grocery_price": "$2.50"
+        },
+        {
+          "name": "Chicken Broth",
+          "quantity": "¼ cup",
+          "walmart_price": "$0.30",
+          "amazon_grocery_price": "$0.40"
+        },
+        {
+          "name": "Sugar",
+          "quantity": "1 tbsp",
+          "walmart_price": "$0.10",
+          "amazon_grocery_price": "$0.15"
+        },
+        {
+          "name": "Cornstarch",
+          "quantity": "1 tsp",
+          "walmart_price": "$0.10",
+          "amazon_grocery_price": "$0.15"
+        },
+        {
+          "name": "Chili Garlic Sauce",
+          "quantity": "1 tsp",
+          "walmart_price": "$0.50",
+          "amazon_grocery_price": "$0.60"
+        },
+        {
+          "name": "Salt and Pepper",
+          "quantity": "to taste",
+          "walmart_price": "$0.20",
+          "amazon_grocery_price": "$0.25"
+        }
+      ],
+      "pre_cooking_steps": [],
+      "instructions": [
+        {
+          "step": "In a bowl, combine chicken, cornstarch, soy sauce, and Shaoxing wine. Marinate for 10 minutes.",
+          "duration": "10 minutes"
+        },
+        {
+          "step": "Heat peanut oil in a wok or large skillet. Sauté onion until softened. Add bell peppers and cook for 2 minutes, or until slightly softened. Remove vegetables from the pan and set aside.",
+          "duration": "5 minutes"
+        },
+        {
+          "step": "Add the marinated chicken to the pan. Stir-fry for 3-5 minutes, or until cooked through.",
+          "duration": "5 minutes"
+        },
+        {
+          "step": "In a small bowl, whisk together chicken broth, soy sauce, sugar, cornstarch, and chili garlic sauce.",
+          "duration": "5 minutes"
+        },
+        {
+          "step": "Add the sauce to the pan and bring to a simmer. Add vegetables and peanuts. Cook for 1 minute, or until the sauce thickens. Season with salt and pepper.",
+          "duration": "5 minutes"
+        }
+      ],
+      "nutritional_constituents": [
+        {
+          "name": "Protein",
+          "percentage": "25",
+          "amount": "20g"
+        },
+        {
+          "name": "Fiber",
+          "percentage": "15",
+          "amount": "8g"
+        },
+        {
+          "name": "Iron",
+          "percentage": "10",
+          "amount": "4mg"
+        }
+      ],
+      "leftover_recipe_suggestions": [
+        "Kung Pao Chicken Fried Rice", "Kung Pao Chicken Salad", "Kung Pao Chicken Lettuce Wraps"
+      ]
+    },
+    {
+      "cuisine": "French",
+      "recipe_name": "Ratatouille",
+      "duration": "1 hour",
+      "cost_per_serving": "$1.75",
+      "ingredients": [
+        {
+          "name": "Eggplant",
+          "quantity": "1 large",
+          "walmart_price": "$1.00",
+          "amazon_grocery_price": "$1.50"
+        },
+        {
+          "name": "Zucchini",
+          "quantity": "1 large",
+          "walmart_price": "$0.75",
+          "amazon_grocery_price": "$1.00"
+        },
+        {
+          "name": "Yellow Squash",
+          "quantity": "1 large",
+          "walmart_price": "$0.75",
+          "amazon_grocery_price": "$1.00"
+        },
+        {
+          "name": "Onion",
+          "quantity": "1 large",
+          "walmart_price": "$0.30",
+          "amazon_grocery_price": "$0.40"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "2 cloves",
+          "walmart_price": "$0.10",
+          "amazon_grocery_price": "$0.15"
+        },
+        {
+          "name": "Ripe Tomatoes",
+          "quantity": "2",
+          "walmart_price": "$0.60",
+          "amazon_grocery_price": "$0.80"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": "1 tbsp",
+          "walmart_price": "$0.20",
+          "amazon_grocery_price": "$0.30"
+        },
+        {
+          "name": "Dried Thyme",
+          "quantity": "1 tsp",
+          "walmart_price": "$0.10",
+          "amazon_grocery_price": "$0.15"
+        },
+        {
+          "name": "Dried Oregano",
+          "quantity": "½ tsp",
+          "walmart_price": "$0.10",
+          "amazon_grocery_price": "$0.15"
+        },
+        {
+          "name": "Salt and Pepper",
+          "quantity": "to taste",
+          "walmart_price": "$0.20",
+          "amazon_grocery_price": "$0.25"
+        }
+      ],
+      "pre_cooking_steps": [],
+      "instructions": [
+        {
+          "step": "Cube eggplant, zucchini, and yellow squash. Chop onion and mince garlic. Chop tomatoes.",
+          "duration": "15 minutes"
+        },
+        {
+          "step": "Heat olive oil in a large pot or Dutch oven. Sauté onions until softened. Add garlic and sauté for another minute. Add eggplant, zucchini, and yellow squash. Cook for 10 minutes, stirring occasionally, until slightly softened.",
+          "duration": "10 minutes"
+        },
+        {
+          "step": "Add tomatoes, thyme, oregano, salt, and pepper. Bring to a boil, then reduce heat and simmer for 30 minutes, or until vegetables are tender and flavors meld.",
+          "duration": "30 minutes"
+        }
+      ],
+      "nutritional_constituents": [
+        {
+          "name": "Fiber",
+          "percentage": "30",
+          "amount": "12g"
+        },
+        {
+          "name": "Vitamin C",
+          "percentage": "25",
+          "amount": "15mg"
+        },
+        {
+          "name": "Potassium",
+          "percentage": "20",
+          "amount": "500mg"
+        }
+      ],
+      "leftover_recipe_suggestions": [
+        "Ratatouille Tart", "Ratatouille Pasta", "Ratatouille Stuffed Peppers"
+      ]
+    },
+    {
+      "cuisine": "Greek",
+      "recipe_name": "Moussaka",
+      "duration": "1 hour 30 minutes",
+      "cost_per_serving": "$3.50",
+      "ingredients": [
+        {
+          "name": "Ground Beef",
+          "quantity": "1 lb",
+          "walmart_price": "$4.00",
+          "amazon_grocery_price": "$5.00"
+        },
+        {
+          "name": "Onion",
+          "quantity": "1 large",
+          "walmart_price": "$0.30",
+          "amazon_grocery_price": "$0.40"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "2 cloves",
+          "walmart_price": "$0.10",
+          "amazon_grocery_price": "$0.15"
+        },
+        {
+          "name": "Diced Tomatoes, Undrained",
+          "quantity": "1 can (14.5 oz)",
+          "walmart_price": "$0.80",
+          "amazon_grocery_price": "$1.00"
+        },
+        {
+          "name": "Dried Oregano",
+          "quantity": "1 tsp",
+          "walmart_price": "$0.10",
+          "amazon_grocery_price": "$0.15"
+        },
+        {
+          "name": "Ground Cinnamon",
+          "quantity": "½ tsp",
+          "walmart_price": "$0.10",
+          "amazon_grocery_price": "$0.15"
+        },
+        {
+          "name": "Red Wine",
+          "quantity": "½ cup (optional)",
+          "walmart_price": "$1.00",
+          "amazon_grocery_price": "$1.50"
+        },
+        {
+          "name": "Salt and Pepper",
+          "quantity": "to taste",
+          "walmart_price": "$0.20",
+          "amazon_grocery_price": "$0.25"
+        },
+        {
+          "name": "Eggplant",
+          "quantity": "2 large",
+          "walmart_price": "$1.50",
+          "amazon_grocery_price": "$2.00"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": "1 tbsp",
+          "walmart_price": "$0.20",
+          "amazon_grocery_price": "$0.30"
+        },
+        {
+          "name": "Potatoes",
+          "quantity": "2 large",
+          "walmart_price": "$0.80",
+          "amazon_grocery_price": "$1.00"
+        },
+        {
+          "name": "Béchamel Sauce",
+          "quantity": "1 cup (recipe below)",
+          "walmart_price": null,
+          "amazon_grocery_price": null
+        },
+        {
+          "name": "Kefalotyri Cheese (or Parmesan), grated",
+          "quantity": "1/2 cup",
+          "walmart_price": "$2.00",
+          "amazon_grocery_price": "$2.50"
+        }
+      ],
+      "pre_cooking_steps": [],
+      "instructions": [
+        {
+          "step": "Making the Meat Sauce: In a large skillet, brown ground beef over medium heat. Drain off any excess fat. Add onion and garlic, sauté until softened. Add diced tomatoes, oregano, cinnamon, and red wine (if using). Bring to a boil, then reduce heat and simmer for 20 minutes, or until sauce has thickened. Season with salt and pepper.",
+          "duration": "30 minutes"
+        },
+        {
+          "step": "Cooking the Eggplant: Preheat oven to 375°F (190°C). Lightly brush eggplant slices with olive oil. Bake for 15 minutes, or until slightly softened.",
+          "duration": "15 minutes"
+        },
+        {
+          "step": "Assembling the Moussaka: In a 9x13 inch baking dish, layer baked eggplant slices, then meat sauce, then potato slices. Repeat layers, ending with potato slices. Top with béchamel sauce and kefalotyri cheese.",
+          "duration": "15 minutes"
+        },
+        {
+          "step": "Baking: Bake for 30 minutes, or until golden brown and bubbly.",
+          "duration": "30 minutes"
+        },
+        {
+          "step": "Béchamel Sauce: In a saucepan, melt 2 tbsp butter over medium heat. Whisk in 2 tbsp flour. Gradually whisk in 1 cup milk until smooth. Bring to a simmer, whisking constantly. Reduce heat and simmer for 5 minutes, stirring occasionally. Season with salt and pepper.",
+          "duration": "10 minutes"
+        }
+      ],
+      "nutritional_constituents": [
+        {
+          "name": "Protein",
+          "percentage": "25",
+          "amount": "20g"
+        },
+        {
+          "name": "Fiber",
+          "percentage": "15",
+          "amount": "8g"
+        },
+        {
+          "name": "Calcium",
+          "percentage": "10",
+          "amount": "100mg"
+        }
+      ],
+      "leftover_recipe_suggestions": [
+        "Moussaka Fritters", "Moussaka Shepherd's Pie", "Moussaka Stuffed Bell Peppers"
+      ]
+    },
+    {
+      "cuisine": "Korean",
+      "recipe_name": "Bibimbap",
+      "duration": "30 minutes",
+      "cost_per_serving": "$2.50",
+      "ingredients": [
+        {
+          "name": "Cooked Short-Grain Rice",
+          "quantity": "1 cup",
+          "walmart_price": "$0.50",
+          "amazon_grocery_price": "$0.60"
+        },
+        {
+          "name": "Assorted Vegetables (e.g., spinach, bean sprouts, carrots, mushrooms, zucchini)",
+          "quantity": "1 cup",
+          "walmart_price": "$2.00",
+          "amazon_grocery_price": "$2.50"
+        },
+        {
+          "name": "Egg",
+          "quantity": "1",
+          "walmart_price": "$0.25",
+          "amazon_grocery_price": "$0.30"
+        },
+        {
+          "name": "Gochujang (Korean Chili Paste)",
+          "quantity": "1 tbsp",
+          "walmart_price": "$1.00",
+          "amazon_grocery_price": "$1.20"
+        },
+        {
+          "name": "Soy Sauce",
+          "quantity": "1 tbsp",
+          "walmart_price": "$0.20",
+          "amazon_grocery_price": "$0.30"
+        },
+        {
+          "name": "Sesame Oil",
+          "quantity": "1 tbsp",
+          "walmart_price": "$0.50",
+          "amazon_grocery_price": "$0.60"
+        },
+        {
+          "name": "Sesame Seeds",
+          "quantity": "1 tbsp",
+          "walmart_price": "$0.20",
+          "amazon_grocery_price": "$0.30"
+        },
+        {
+          "name": "Chopped Green Onions",
+          "quantity": "1 tbsp",
+          "walmart_price": "$0.10",
+          "amazon_grocery_price": "$0.15"
+        },
+        {
+          "name": "Kimchi",
+          "quantity": "1 tbsp (optional)",
+          "walmart_price": "$0.50",
+          "amazon_grocery_price": "$0.60"
+        }
+      ],
+      "pre_cooking_steps": [],
+      "instructions": [
+        {
+          "step": "Cook rice according to package directions.",
+          "duration": "15 minutes"
+        },
+        {
+          "step": "Blanch or sauté vegetables until tender.",
+          "duration": "10 minutes"
+        },
+        {
+          "step": "In a bowl, arrange rice, vegetables, and fried/poached egg. Mix gochujang, soy sauce, sesame oil, sesame seeds, and green onions together in a small bowl. Drizzle over the bibimbap and serve immediately.",
+          "duration": "5 minutes"
+        }
+      ],
+      "nutritional_constituents": [
+        {
+          "name": "Carbohydrates",
+          "percentage": "45",
+          "amount": "50g"
+        },
+        {
+          "name": "Fiber",
+          "percentage": "15",
+          "amount": "8g"
+        },
+        {
+          "name": "Protein",
+          "percentage": "10",
+          "amount": "10g"
+        }
+      ],
+      "leftover_recipe_suggestions": [
+        "Bibimbap Fried Rice", "Bibimbap Salad", "Bibimbap Burrito Bowls"
+      ]
+    }]
